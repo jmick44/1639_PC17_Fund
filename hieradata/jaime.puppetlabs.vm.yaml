@@ -1,0 +1,2 @@
+---
+nginx::message: "This variable came from jaime.puppetlabs.vm.yaml"
